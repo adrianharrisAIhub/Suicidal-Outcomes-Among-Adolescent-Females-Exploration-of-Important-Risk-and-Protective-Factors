@@ -16,3 +16,4 @@ Most tables and data are too big to upload so email me at ah5588@nyu.edu if you 
 
 APHA Abstract (Written March 2026): https://apha.confex.com/apha/2026/meetingapp.cgi/Paper/598791 
 
+apha_poster.pdf: APHA poster presented on November, 03, 2026
