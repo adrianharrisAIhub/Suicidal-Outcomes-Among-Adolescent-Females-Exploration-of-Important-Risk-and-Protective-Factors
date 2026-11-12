@@ -1,4 +1,4 @@
-All code was finished around August 2026:
+All code was finished around August 2026, we will periodically make this workflow better as we prepare for a publication submission:
 
 Female_risk_and_protective_factors_modeling_github.ipynb: Modeling workflow script (modeling with sample design, grid search of pre and post processing methods to reduce disparities) 
 
